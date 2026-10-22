@@ -1,0 +1,7 @@
+{
+  "name": "Kinesix - Live Motion & Biometric Action Recognition",
+  "description": "Real-time AI motion detection, hand gesture recognition, facial expression analysis, and tamper-evident secure database logging for telemetry and behavioral analytics.",
+  "requestFramePermissions": ["CAMERA"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

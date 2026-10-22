@@ -1,0 +1,30 @@
+[
+  {
+    "id": "genesis-block-00000000",
+    "sessionId": "sys-init",
+    "timestamp": "2026-10-22T11:00:20.926Z",
+    "epochMs": 1792666820927,
+    "category": "system",
+    "actionName": "Cryptographic Ledger Initialized",
+    "confidence": 1,
+    "metadata": {
+      "notes": "Genesis audit block created with SHA-256 hash chaining enabled"
+    },
+    "prevHash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "6fef06580956bbd16e54beb3182a129752d22d69c8950b3d78aff06534161b36",
+    "signature": "c0e51091b6d3ce0642eebaeb02d68df2b99d4e197f9fb9a9c8646be9b35f68fd"
+  },
+  {
+    "id": "rec-1792666840156-wkjxx",
+    "sessionId": "session-default-01",
+    "timestamp": "2026-10-22T11:00:40.156Z",
+    "epochMs": 1792666840156,
+    "category": "hand_sign",
+    "actionName": "Peace / Victory Sign",
+    "confidence": 0.96,
+    "metadata": {},
+    "prevHash": "6fef06580956bbd16e54beb3182a129752d22d69c8950b3d78aff06534161b36",
+    "hash": "223c6da84442d4b33c0a37b4059627f88703286102d74475283400bb717ddeca",
+    "signature": "b8a94eb382e50da25c8104fde3aadc6ff9463175ddd092415ab267d0b3028b35"
+  }
+]
